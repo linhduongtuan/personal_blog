@@ -29,7 +29,8 @@ source .venv/bin/activate # for MacOS and Linux
 # .venv\Scripts\activate for Windows
 
 uv pip install -r requirements.txt
-
+```
+```python
 # then run
 cd personal_blog
 rio run
