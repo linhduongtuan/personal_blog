@@ -8,10 +8,10 @@ This repository was created to embrace the "learn by doing" approach, which is m
 
 - **Modern, Declarative UI Framework:**
 
-\u2217 **100% Python:** No need for HTML, CSS, or JavaScript.
-\u2217 **50+ Built-in Components:** Easily create common UI elements like switches, buttons, and text fields.
-\u2217 **Seamless Integration with Modern Python Tooling:** Enjoy instant suggestions and error highlighting with type safety.
-\u2217 **Built-in Developer Tools:** Simplify your development workflow.
+  - **100% Python:** No need for HTML, CSS, or JavaScript.
+  - **50+ Built-in Components:** Easily create common UI elements like switches, buttons, and text fields.
+  - **Seamless Integration with Modern Python Tooling:** Enjoy instant suggestions and error highlighting with type safety.
+  - **Built-in Developer Tools:** Simplify your development workflow.
 
 - **Open Source & Free foreve**
 
