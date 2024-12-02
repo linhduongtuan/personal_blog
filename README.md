@@ -31,7 +31,7 @@ source .venv/bin/activate # for MacOS and Linux
 uv pip install -r requirements.txt
 
 # then run
-cd personal-blog
+cd personal_blog
 rio run
 # if error, please run
 # python -m rio run
